@@ -8,6 +8,8 @@ Everyone has their own learning style and speed. We adapt to yours using online
 self-paced tutorials. You move as fast or as slowly as you feel comfortable. If
 you get stuck or have questions, we have coaches to help.
 
+Meetings are held in either Crested Butte or Gunnison, Colorado.
+
 Practice Before Theory
 ----------------------
 

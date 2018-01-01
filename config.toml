@@ -56,54 +56,15 @@ googleAnalytics = ""
 	weight = 30
 
 [[menu.main]]
-	name   = "Schedule"
-	url    = "schedule/"
+	name   = "How to Join"
+	url    = "joining/"
 	weight = 40
 
 [[menu.main]]
-	name   = "Lightning Talks"
-	url    = "lightning/"
-	weight = 42
-
-[[menu.main]]
-	name   = "Hackathon"
-	url    = "hackathon/"
-	weight = 43
-
-[[menu.main]]
-	name   = "Afternoon Activities"
-	url    = "afternoon/"
-	weight = 47
-
-[[menu.main]]
-	name   = "Location"
-	url    = "location/"
+	name   = "More Resources"
+	url    = "resources/"
 	weight = 50
 
-[[menu.main]]
-	name   = "Venue"
-	url    = "venue/"
-	weight = 55
-
-[[menu.main]]
-	name   = "Travel"
-	url    = "travel/"
-	weight = 60
-
-[[menu.main]]
-	name   = "Lodging"
-	url    = "lodging/"
-	weight = 70
-
-[[menu.main]]
-	name   = "Altitude"
-	url    = "altitude/"
-	weight = 80
-
-[[menu.main]]
-	name   = "Registration"
-	url    = "registration/"
-	weight = 90
 
 [[menu.main]]
 	name   = "About"

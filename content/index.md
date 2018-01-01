@@ -1,30 +1,30 @@
 ---
-title: Overview
+title: How It Works
 type: index
 weight: 10
 ---
 
-Organized by Bruce Eckel<br/>
-<span style="font-size:150%">Feb 26 - March 2, 2018</span>
-<span style="font-size:75%"><br/>(Formerly The Java Posse Roundup)</span>
+Everyone has their own learning style and speed. We adapt to yours using online
+self-paced tutorials. You move as fast or as slowly as you feel comfortable. If
+you get stuck or have questions, we have coaches to help.
 
-- Attendance limited to 40
-- Price: $750
-- If you've previously attended any of the Crested
-Butte events and need a break on the fee,
-<a href="https://wintertechforum.com/contact/">make a
-request</a>. Don't let the fee be the reason you can't attend.
+Practice Before Theory
+----------------------
 
-***
+You begin coding right away, taking small steps with the hands-on tutorials.
+Once you get some experience, you have a context for questions, discussions and
+ideas.
 
-- *The WTF took me to places I never imagined I would go; intellectually, emotionally, career-wise, and geographically. The power of this tiny thing is immeasurable.* -- Andrew Harmel-Law, Tech Principal at ThoughtWorks
+​This approach works well for most people, but for folks who like a more
+traditional lecture-first strategy, we point you to free online lectures.
 
-- *I'm still stunned by how impactful WTF is ... each year I walk away with a sense of knowing what I need to focus on that will help make an impact on my team and our projects.* -- Matt Brandt, Mozilla
+Do What Works for You
+---------------------
 
-- *The roundup has been the best and most transformative conference of my life, by far. It's directly responsible for getting me where I am.* -- Joe Sondow
+Regular meetings are organized using an online tool (Doodle) to create
+locations and times that work for more folks. We will attempt weekly meetings,
+but this will vary according to needs and schedules.
 
-- *In my experience, the open-spaces forums that Bruce has facilitated have been a great source of new ideas, new friends in the tech world, and a fresh source of inspiration and energy I could apply to my regular work.* -- Joel Neely
+If you're happy working on your own, the resources in this site will guide your
+self-study. If you start getting stuck, you can always join a meeting.
 
-- Dianne Marsh's [Summary of the 2016 WTF](http://diannemarsh.com/conference-summary-winter-tech-forum-2016/)
-
-- Chris Hartjes on his [First WTF Experience](https://www.littlehart.net/atthekeyboard/2017/03/12/fighting-fear-and-loathing-in-crested-butte/).

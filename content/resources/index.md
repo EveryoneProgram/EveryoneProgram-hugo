@@ -11,6 +11,8 @@ weight: 50
 
 - [How to Think Like a Computer Scientist](http://interactivepython.org/runestone/static/thinkcspy/GeneralIntro/toctree.html).
 
+- [Python Koans](https://github.com/gregmalcolm/python_koans), guided puzzles to solve.
+
 - [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/) (Free online introductory book;
 includes links to books on creating games with Python).
 

@@ -12,5 +12,6 @@ and edited by [Daniel Will-Harris](http://www.Will-Harris.com).
 <a href="https://www.gohugo.io" target="_blank">Hugo</a>, using a theme derived from
 <a href="http://github.com/digitalcraftsman/hugo-material-docs" target="_blank">Material</a>.
 
-- <a href="http://github.com/EveryoneProgram/EveryoneProgram-hugo" target="_blank">Github Repo</a> containing the
-source code for this site.
+- <a href="http://github.com/EveryoneProgram/EveryoneProgram-hugo" target="_blank">Github Repo</a> containing the source code for this site.
+
+- Hosted, with thanks, on <a href="http://github.com" target="_blank">Github Pages</a>.

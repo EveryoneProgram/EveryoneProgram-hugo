@@ -3,6 +3,11 @@ title: How to Join
 weight: 40
 ---
 
+You can join at any time -- we have no official starting date and there is no
+"course schedule." You start wherever you are, and move forward at your own pace.
+
+If you can't make every meeting, that's fine. Just pick up where you left off.
+
 To Sign Up for Meetings
 -----------------------
 

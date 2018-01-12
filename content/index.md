@@ -10,6 +10,14 @@ you get stuck or have questions, we have coaches to help.
 
 Meetings are held in either Crested Butte or Gunnison, Colorado.
 
+Join Any Time
+-------------
+
+You can join at any time -- we have no official starting date and there is no
+"course schedule." You start wherever you are, and move forward at your own pace.
+
+If you can't make every meeting, that's fine. Just pick up where you left off.
+
 Practice Before Theory
 ----------------------
 

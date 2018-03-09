@@ -20,3 +20,6 @@ includes links to books on creating games with Python).
 Minecraft).
 
 - [Introduction to Computing using Python](https://www.edx.org/course/introduction-computing-using-python-gtx-cs1301x#!) (a free EDX course).
+
+- [Beginner's resources for HTML, CSS, JavaScript, JQuery, PHP,
+  Python and Ruby](https://www.vodien.com/blog/education/beginners-resources-to-learn-programming-languages.php).

@@ -16,7 +16,9 @@ weight: 50
 - [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/) (Free online introductory book;
 includes links to books on creating games with Python).
 
-- [Learn to Program with Minecraft](https://www.nostarch.com/programwithminecraft) (Book for sale; introductory using Python for
+- [A Beginner’s Guide to Coding and Programming](https://praxent.com/blog/beginners-guide-to-coding-programming)
+
+- [Learn to Program with Minecraft](https://www.nostarch.com/programwithminecraft) (Book for sale: introduction using Python for
 Minecraft).
 
 - [Introduction to Computing using Python](https://www.edx.org/course/introduction-computing-using-python-gtx-cs1301x#!) (a free EDX course).

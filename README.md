@@ -1,6 +1,6 @@
 # The Everyone Program Hugo Static Site Source
 
-Hugo Static Site for [Everyone Program](www.EveryoneProgram.com).
+Hugo Static Site for [Everyone Program](https://www.EveryoneProgram.com).
 
 Because of the theme, the site automatically works well on phones as well as
 computers and tablets.

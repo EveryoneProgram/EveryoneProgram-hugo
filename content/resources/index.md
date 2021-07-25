@@ -25,3 +25,7 @@ Minecraft).
 
 - [Beginner's resources for HTML, CSS, JavaScript, JQuery, PHP,
   Python and Ruby](https://www.vodien.com/blog/education/beginners-resources-to-learn-programming-languages.php).
+
+- [Learn to Code From Home](https://couponfollow.com/research/learn-to-code-from-home)
+
+- [Computer Language for Beginners: HTML](https://www.hp.com/us-en/shop/tech-takes/computer-language-for-beginners-html)

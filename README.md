@@ -11,7 +11,7 @@ pages.
 
 ## To Build:
 
-1.  [Install the Hugo](https://hugodocs.info/getting-started/installing/#quick-install) static site generator.
+1.  [Install the Hugo](https://gohugo.io/installation/) static site generator.
 
 2.  Clone this repository into your "git" subdirectory.
 

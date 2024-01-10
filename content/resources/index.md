@@ -3,6 +3,8 @@ title: More Resources
 weight: 50
 ---
 
+- [Beginner’s Glossary of Coding and Programming Terms](https://www.qualtrics.com/blog/glossary-of-coding-and-programming-terms/)
+
 - Alternative first-start tutorial: [Trinket.io](https://docs.trinket.io/getting-started-with-python).
 
 - Code Visualization: [Python Tutor](http://www.pythontutor.com/).
